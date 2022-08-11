@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# FEEDBACK APP
 
 This project is a Feedback app create for the Udemy course React Front to Back 2022 by [Brad Traversy](https://www.udemy.com/course/react-front-to-back-2022/).
 
